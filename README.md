@@ -1,1 +1,1 @@
-# Pattern-Recognition
+# Program Homework of Pattern-Recognition
